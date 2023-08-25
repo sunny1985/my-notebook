@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notebook/Java/开源框架/Guava/Getting Started with Google Guava.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notebook/Java/开源框架/Guava/Getting Started with Google Guava.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notebook/Java/开源框架/Guava/Getting Started with Google Guava.md"
+              }
             }
           },
           {
@@ -132,9 +136,17 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "1c34f8699f8c89a6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -153,12 +165,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7a5f8b10050fa0d8",
+  "active": "1c34f8699f8c89a6",
   "lastOpenFiles": [
+    "Home.md",
+    "Notebook/Java/开源框架/Guava/Drawing 2023-08-25 23.00.11.excalidraw.md",
     "Notebook/Java/开源框架/Guava/Getting Started with Google Guava.md",
     "conflict-files-obsidian-git.md",
     "Notebook/未命名.md",
-    "Home.md",
     "新建 文本文档.txt",
     "Java/开源框架/Guava/Drawing 2023-08-25 19.30.05.excalidraw.md",
     "Java/开源框架/Guava/Getting Started with Google Guava.md",
