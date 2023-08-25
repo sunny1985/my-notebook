@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3897d83ee0ae36ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notebook/Java/开源框架/Guava/Getting Started with Google Guava.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notebook/Java/开源框架/Guava/Getting Started with Google Guava.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notebook/Java/开源框架/Guava/Getting Started with Google Guava.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -157,10 +170,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8f3eec2c4d793164",
+  "active": "3897d83ee0ae36ce",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Notebook/Java/开源框架/Guava/Getting Started with Google Guava.md",
+    "conflict-files-obsidian-git.md",
     "Notebook/未命名.md",
     "Home.md",
     "新建 文本文档.txt",
