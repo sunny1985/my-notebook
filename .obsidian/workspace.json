@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "9b3d59b140a4fdf7",
+        "id": "1ee5209c8c41d7bb",
         "type": "tabs",
         "children": [
           {
-            "id": "eba9c4f39942a59c",
+            "id": "20b7d0f6db27d772",
             "type": "leaf",
             "state": {
-              "type": "mindmapView",
+              "type": "mindmapview",
               "state": {
                 "file": "Notebook/Java/开源框架/Guava/Getting Started with Google Guava.md"
               }
@@ -165,7 +165,7 @@
       "obsidian-weread-plugin:Weread": false
     }
   },
-  "active": "eba9c4f39942a59c",
+  "active": "20b7d0f6db27d772",
   "lastOpenFiles": [
     "Notebook/Java/开源框架/Guava/Getting Started with Google Guava.md",
     "Home.md",
