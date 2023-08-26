@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fac8fa990cf039a3",
+        "id": "9b3d59b140a4fdf7",
         "type": "tabs",
         "children": [
           {
-            "id": "b0312af86f37048e",
+            "id": "eba9c4f39942a59c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mindmapView",
               "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
+                "file": "Notebook/Java/开源框架/Guava/Getting Started with Google Guava.md"
               }
             }
           }
@@ -69,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 301.5
   },
   "right": {
     "id": "4fe85455b5b22348",
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Notebook/Java/开源框架/Guava/Getting Started with Google Guava.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Notebook/Java/开源框架/Guava/Getting Started with Google Guava.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Notebook/Java/开源框架/Guava/Getting Started with Google Guava.md"
               }
             }
           },
@@ -167,7 +165,7 @@
       "obsidian-weread-plugin:Weread": false
     }
   },
-  "active": "b0312af86f37048e",
+  "active": "eba9c4f39942a59c",
   "lastOpenFiles": [
     "Notebook/Java/开源框架/Guava/Getting Started with Google Guava.md",
     "Home.md",
