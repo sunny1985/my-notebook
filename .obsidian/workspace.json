@@ -11,8 +11,10 @@
             "id": "3fa27079f6c0da9d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "mindmapview",
+              "state": {
+                "file": "Notebook/读书笔记/其他/如何阅读一本书/如何阅读一本书.md"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notebook/读书笔记/其他/如何阅读一本书/如何阅读一本书.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notebook/读书笔记/其他/如何阅读一本书/如何阅读一本书.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notebook/读书笔记/其他/如何阅读一本书/如何阅读一本书.md"
+              }
             }
           },
           {
@@ -159,9 +165,10 @@
       "obsidian-weread-plugin:Weread": false
     }
   },
-  "active": "8f3eec2c4d793164",
+  "active": "3fa27079f6c0da9d",
   "lastOpenFiles": [
-    "Notebook/读书笔记/其他/未命名",
+    "Notebook/读书笔记/其他/如何阅读一本书/如何阅读一本书.md",
+    "Notebook/读书笔记/其他/如何阅读一本书",
     "Notebook/读书笔记/其他",
     "Notebook/读书笔记/计算机",
     "Notebook/读书笔记",
@@ -178,7 +185,6 @@
     "Java/开源框架",
     "Java/基础",
     "数据结构与算法",
-    "Golang",
-    "Java"
+    "Golang"
   ]
 }
