@@ -1,1 +1,4 @@
 
+---
+mindmap-plugin: basic/rich
+---
