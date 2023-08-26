@@ -67,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4fe85455b5b22348",
@@ -148,7 +149,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,7 +167,7 @@
       "obsidian-weread-plugin:Weread": false
     }
   },
-  "active": "3fa27079f6c0da9d",
+  "active": "8f3eec2c4d793164",
   "lastOpenFiles": [
     "Notebook/读书笔记/其他/如何阅读一本书/如何阅读一本书.md",
     "Notebook/读书笔记/其他/如何阅读一本书",
