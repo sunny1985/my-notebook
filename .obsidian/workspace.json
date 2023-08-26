@@ -162,10 +162,11 @@
       "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "1cc64525f56df534",
+  "active": "7a5f8b10050fa0d8",
   "lastOpenFiles": [
     "Home.md",
     "Notebook/Java/开源框架/Guava/Getting Started with Google Guava.md",
