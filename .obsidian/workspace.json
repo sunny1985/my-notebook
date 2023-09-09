@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 362.5
+    "width": 362.5,
+    "collapsed": true
   },
   "right": {
     "id": "4fe85455b5b22348",
@@ -168,9 +169,15 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "964de42af6a1c2d5",
+  "active": "7a5f8b10050fa0d8",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Notebook/读书笔记/计算机/设计模式：可复用面向对象软件的基础/设计模式：可复用面向对象软件的基础.md",
+    "Notebook/程序人生/Java/开源框架/Guava/Getting Started with Google Guava.md",
+    "Notebook/程序人生/Java/开源框架/Guava",
+    "Notebook/程序人生/Java/开源框架",
+    "Notebook/程序人生/Java",
+    "Notebook/程序人生",
     "Notebook/读书笔记/计算机/设计模式：可复用面向对象软件的基础",
     "Home.md",
     "Notebook/读书笔记/其他/如何阅读一本书/如何阅读一本书.md",
@@ -185,10 +192,6 @@
     "未命名思维导图.md",
     "新建 文本文档.txt",
     "Java/开源框架/Guava/Drawing 2023-08-25 19.30.05.excalidraw.md",
-    "Java/开源框架/Guava/Getting Started with Google Guava.md",
-    "Java/开源框架/Guava",
-    "Java/开源框架",
-    "Java/基础",
-    "数据结构与算法"
+    "Java/开源框架/Guava/Getting Started with Google Guava.md"
   ]
 }
