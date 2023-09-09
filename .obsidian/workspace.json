@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3221b3d87fe77247",
+        "id": "978f072f2f500ae0",
         "type": "tabs",
         "children": [
           {
-            "id": "964de42af6a1c2d5",
+            "id": "fe70e5521f4912da",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -169,10 +169,11 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "7a5f8b10050fa0d8",
+  "active": "8f3eec2c4d793164",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "未命名.canvas",
     "Notebook/读书笔记/计算机/设计模式：可复用面向对象软件的基础/设计模式：可复用面向对象软件的基础.md",
+    "conflict-files-obsidian-git.md",
     "Notebook/程序人生/Java/开源框架/Guava/Getting Started with Google Guava.md",
     "Notebook/程序人生/Java/开源框架/Guava",
     "Notebook/程序人生/Java/开源框架",
