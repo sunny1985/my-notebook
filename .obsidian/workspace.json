@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "48e47de0fe3d1cd5",
+        "id": "3221b3d87fe77247",
         "type": "tabs",
         "children": [
           {
-            "id": "3fa27079f6c0da9d",
+            "id": "964de42af6a1c2d5",
             "type": "leaf",
             "state": {
-              "type": "mindmapview",
+              "type": "markdown",
               "state": {
-                "file": "Notebook/读书笔记/其他/如何阅读一本书/如何阅读一本书.md"
+                "file": "Notebook/读书笔记/计算机/设计模式：可复用面向对象软件的基础/设计模式：可复用面向对象软件的基础.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 362.5
   },
   "right": {
     "id": "4fe85455b5b22348",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notebook/读书笔记/其他/如何阅读一本书/如何阅读一本书.md",
+                "file": "Notebook/读书笔记/计算机/设计模式：可复用面向对象软件的基础/设计模式：可复用面向对象软件的基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notebook/读书笔记/其他/如何阅读一本书/如何阅读一本书.md",
+                "file": "Notebook/读书笔记/计算机/设计模式：可复用面向对象软件的基础/设计模式：可复用面向对象软件的基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notebook/读书笔记/其他/如何阅读一本书/如何阅读一本书.md"
+                "file": "Notebook/读书笔记/计算机/设计模式：可复用面向对象软件的基础/设计模式：可复用面向对象软件的基础.md"
               }
             }
           },
@@ -149,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,21 +161,24 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-weread-plugin:Weread": false,
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "homepage:Open homepage": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-weread-plugin:Weread": false
+      "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "8f3eec2c4d793164",
+  "active": "964de42af6a1c2d5",
   "lastOpenFiles": [
+    "Notebook/读书笔记/计算机/设计模式：可复用面向对象软件的基础/设计模式：可复用面向对象软件的基础.md",
+    "Notebook/读书笔记/计算机/设计模式：可复用面向对象软件的基础",
+    "Home.md",
     "Notebook/读书笔记/其他/如何阅读一本书/如何阅读一本书.md",
     "Notebook/读书笔记/其他/如何阅读一本书",
     "Notebook/读书笔记/其他",
     "Notebook/读书笔记/计算机",
     "Notebook/读书笔记",
     "Notebook/Java/开源框架/Guava/Getting Started with Google Guava.md",
-    "Home.md",
     "Notebook/Java/开源框架/Guava/Drawing 2023-08-27 00.47.07.excalidraw.md",
     "Notebook/Java/开源框架/Guava/未命名.canvas",
     "Notebook/Java/开源框架/Guava/未命名思维导图.md",
@@ -186,7 +189,6 @@
     "Java/开源框架/Guava",
     "Java/开源框架",
     "Java/基础",
-    "数据结构与算法",
-    "Golang"
+    "数据结构与算法"
   ]
 }
