@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "978f072f2f500ae0",
+        "id": "4414dfa01954583b",
         "type": "tabs",
         "children": [
           {
-            "id": "fe70e5521f4912da",
+            "id": "405e115fe8a8b6c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notebook/读书笔记/计算机/设计模式：可复用面向对象软件的基础/设计模式：可复用面向对象软件的基础.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notebook/读书笔记/计算机/设计模式：可复用面向对象软件的基础/设计模式：可复用面向对象软件的基础.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notebook/读书笔记/计算机/设计模式：可复用面向对象软件的基础/设计模式：可复用面向对象软件的基础.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notebook/读书笔记/计算机/设计模式：可复用面向对象软件的基础/设计模式：可复用面向对象软件的基础.md"
+                "file": "Home.md"
               }
             }
           },
@@ -144,6 +144,16 @@
             "state": {
               "type": "calendar",
               "state": {}
+            }
+          },
+          {
+            "id": "6b9adfd804edb52f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -170,8 +180,9 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "fe70e5521f4912da",
+  "active": "405e115fe8a8b6c8",
   "lastOpenFiles": [
+    "Home.md",
     "Notebook/读书笔记/计算机/设计模式：可复用面向对象软件的基础/Pasted image 20230913005430.png",
     "Notebook/程序人生/Java/开源框架/Guava/Getting Started with Google Guava.md",
     "README.md",
@@ -184,7 +195,6 @@
     "Notebook/程序人生/Java",
     "Notebook/程序人生",
     "Notebook/读书笔记/计算机/设计模式：可复用面向对象软件的基础",
-    "Home.md",
     "Notebook/读书笔记/其他/如何阅读一本书/如何阅读一本书.md",
     "Notebook/读书笔记/其他/如何阅读一本书",
     "Notebook/读书笔记/其他",
