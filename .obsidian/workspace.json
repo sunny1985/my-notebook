@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4414dfa01954583b",
+        "id": "8a2545dd02c88277",
         "type": "tabs",
         "children": [
           {
-            "id": "405e115fe8a8b6c8",
+            "id": "3ed2a9b11d5ebe55",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1a4e5a6f97fea811",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 362.5,
-    "collapsed": true
+    "width": 362.5
   },
   "right": {
     "id": "4fe85455b5b22348",
@@ -172,15 +182,10 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-weread-plugin:Weread": false,
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
-      "homepage:Open homepage": false,
-      "obsidian-extract-pdf-highlights:PDF Highlights": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "405e115fe8a8b6c8",
+  "active": "8f3eec2c4d793164",
   "lastOpenFiles": [
     "Home.md",
     "Notebook/读书笔记/计算机/设计模式：可复用面向对象软件的基础/Pasted image 20230913005430.png",
