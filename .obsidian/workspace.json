@@ -11,11 +11,9 @@
             "id": "d8c65895ccbcf165",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kity-mind",
               "state": {
-                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/数据结构与算法基础.md",
-                "mode": "source",
-                "source": false
+                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/数据结构的研究内容.km.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/数据结构与算法基础.md",
+                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/数据结构的研究内容.km.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/数据结构与算法基础.md",
+                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/数据结构的研究内容.km.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/数据结构与算法基础.md"
+                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/数据结构的研究内容.km.md"
               }
             }
           },
@@ -160,8 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,10 +176,11 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "d8c65895ccbcf165",
+  "active": "8f3eec2c4d793164",
   "lastOpenFiles": [
-    "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/课程内容.km.md",
     "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/数据结构与算法基础.md",
+    "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/数据结构的研究内容.km.md",
+    "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/课程内容.km.md",
     "Notebook/读书笔记/计算机/设计模式：可复用面向对象软件的基础/设计模式：可复用面向对象软件的基础.md",
     "Notebook/读书笔记/计算机/设计模式：可复用面向对象软件的基础/attachment/T1-1设计模式之间的关系.png",
     "Notebook/读书笔记/计算机/设计模式：可复用面向对象软件的基础/attachment/B1-1设计模式空间.png",
