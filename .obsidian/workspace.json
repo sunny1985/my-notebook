@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3ed2a9b11d5ebe55",
+            "id": "1a4e5a6f97fea811",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1a4e5a6f97fea811",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,16 +165,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "obsidian-weread-plugin:Weread": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "8f3eec2c4d793164",
+  "active": "1a4e5a6f97fea811",
   "lastOpenFiles": [
     "Home.md",
     "Notebook/读书笔记/计算机/设计模式：可复用面向对象软件的基础/Pasted image 20230913005430.png",
