@@ -22,16 +22,18 @@
         ]
       },
       {
-        "id": "583d4bc39e201116",
+        "id": "d54a8e41ad8b7a47",
         "type": "tabs",
         "children": [
           {
-            "id": "9ecab264d639be7e",
+            "id": "ac34b3788eee7a9f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "excalibrain.md"
+                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/数据结构与算法基础.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -197,8 +199,8 @@
   },
   "active": "3b33454a2f0e976a",
   "lastOpenFiles": [
-    "excalibrain.md",
     "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/数据结构与算法基础 2023-10-14 02.19.31.excalidraw.md",
+    "excalibrain.md",
     "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/数据结构与算法基础.md",
     "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/未命名思维导图.md",
     "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/课程内容.md",
