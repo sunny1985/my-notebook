@@ -11,15 +11,24 @@
             "id": "1a4e5a6f97fea811",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/数据结构与算法基础.md",
-                "mode": "source",
-                "source": false
+                "file": "Notebook/读书笔记/计算机/设计模式：可复用面向对象软件的基础/attachment/Pasted image 20230912074711.png"
+              }
+            }
+          },
+          {
+            "id": "8ba59680f479dafd",
+            "type": "leaf",
+            "state": {
+              "type": "mindmapview",
+              "state": {
+                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/未命名思维导图.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/数据结构与算法基础.md",
+                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/未命名思维导图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/数据结构与算法基础.md",
+                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/未命名思维导图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/数据结构与算法基础.md"
+                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/未命名思维导图.md"
               }
             }
           },
@@ -165,7 +174,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-weread-plugin:Weread": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -176,21 +184,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "homepage:Open homepage": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-weread-plugin:Weread": false
     }
   },
-  "active": "1a4e5a6f97fea811",
+  "active": "8ba59680f479dafd",
   "lastOpenFiles": [
-    "Notebook/程序人生/Java/开源框架/Guava/Getting Started with Google Guava.md",
     "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/数据结构与算法基础.md",
-    "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/Drawing 2023-10-14 01.13.58.excalidraw.md",
+    "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/未命名思维导图.md",
+    "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/未命名.canvas",
     "Notebook/读书笔记/计算机/设计模式：可复用面向对象软件的基础/设计模式：可复用面向对象软件的基础.md",
+    "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment",
+    "Notebook/读书笔记/计算机/设计模式：可复用面向对象软件的基础/attachment/Pasted image 20230913005430.png",
+    "Notebook/读书笔记/计算机/设计模式：可复用面向对象软件的基础/attachment/Pasted image 20230912074711.png",
+    "Notebook/读书笔记/计算机/设计模式：可复用面向对象软件的基础/attachment",
+    "Notebook/程序人生/Java/开源框架/Guava/Getting Started with Google Guava.md",
+    "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/Drawing 2023-10-14 01.13.58.excalidraw.md",
     "Home.md",
     "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）",
-    "Notebook/读书笔记/计算机/设计模式：可复用面向对象软件的基础/Pasted image 20230913005430.png",
     "README.md",
     "未命名.canvas",
-    "Notebook/读书笔记/计算机/设计模式：可复用面向对象软件的基础/Pasted image 20230912074711.png",
     "conflict-files-obsidian-git.md",
     "Notebook/程序人生/Java/开源框架/Guava",
     "Notebook/程序人生/Java/开源框架",
@@ -200,8 +213,6 @@
     "Notebook/读书笔记/其他/如何阅读一本书/如何阅读一本书.md",
     "Notebook/读书笔记/其他/如何阅读一本书",
     "Notebook/读书笔记/其他",
-    "Notebook/读书笔记/计算机",
-    "Notebook/读书笔记",
     "Notebook/Java/开源框架/Guava/Getting Started with Google Guava.md",
     "Notebook/Java/开源框架/Guava/Drawing 2023-08-27 00.47.07.excalidraw.md",
     "Notebook/Java/开源框架/Guava/未命名.canvas",
