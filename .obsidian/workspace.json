@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5c6ac6e009927d3c",
+        "id": "f28cb83a893150aa",
         "type": "tabs",
         "children": [
           {
-            "id": "bd1bd12abe82c4cb",
+            "id": "52c7f71b5dcc1c70",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "mindmapview",
               "state": {
-                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/数据结构与算法基础 2023-10-14 02.19.31.excalidraw.md"
+                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/课程内容.md"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/数据结构与算法基础 2023-10-14 02.19.31.excalidraw.md",
+                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/课程内容.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/数据结构与算法基础 2023-10-14 02.19.31.excalidraw.md",
+                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/课程内容.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/数据结构与算法基础 2023-10-14 02.19.31.excalidraw.md"
+                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/课程内容.md"
               }
             }
           },
@@ -177,13 +177,13 @@
       "obsidian-weread-plugin:Weread": false
     }
   },
-  "active": "bd1bd12abe82c4cb",
+  "active": "52c7f71b5dcc1c70",
   "lastOpenFiles": [
-    "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/数据结构与算法基础.md",
     "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/数据结构与算法基础 2023-10-14 02.19.31.excalidraw.md",
+    "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/数据结构与算法基础.md",
+    "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/课程内容.md",
     "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/未命名思维导图.md",
     "Notebook/读书笔记/计算机/设计模式：可复用面向对象软件的基础/设计模式：可复用面向对象软件的基础.md",
-    "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/课程内容.md",
     "attachment/数据结构与算法基础 2023-10-14 01.50.04.excalidraw.md",
     "attachment",
     "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/数据结构与算法基础 2023-10-14 01.50.04.excalidraw.md",
