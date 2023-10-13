@@ -8,22 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8ba59680f479dafd",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/数据结构与算法基础 2023-10-14 01.50.04.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "4376ecc56335f1fa",
             "type": "leaf",
             "state": {
-              "type": "mindmapview",
+              "type": "markdown",
               "state": {
-                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/课程内容.md"
+                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/数据结构与算法基础.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -93,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/数据结构与算法基础 2023-10-14 01.50.04.excalidraw.md",
+                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/数据结构与算法基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/数据结构与算法基础 2023-10-14 01.50.04.excalidraw.md",
+                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/数据结构与算法基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/数据结构与算法基础 2023-10-14 01.50.04.excalidraw.md"
+                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/数据结构与算法基础.md"
               }
             }
           },
@@ -187,10 +179,12 @@
       "obsidian-weread-plugin:Weread": false
     }
   },
-  "active": "8ba59680f479dafd",
+  "active": "4376ecc56335f1fa",
   "lastOpenFiles": [
-    "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/数据结构与算法基础.md",
     "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/数据结构与算法基础 2023-10-14 01.50.04.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Mindmap connector.svg",
+    "Excalidraw/Scripts/Downloaded/Mindmap connector.md",
+    "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/数据结构与算法基础.md",
     "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
     "Excalidraw/Scripts/Downloaded/Mindmap format.md",
     "Excalidraw/Scripts/Downloaded",
