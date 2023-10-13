@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d34005672578c8b3",
+        "id": "1998b9d57c418a44",
         "type": "tabs",
         "children": [
           {
-            "id": "a207946c655ffc69",
+            "id": "938c8988613b8fdf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/数据结构与算法基础.md",
-                "mode": "source",
-                "source": false
+                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/T1-1-2人机对弈问题-树.excalidraw.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/数据结构与算法基础.md",
+                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/T1-1-2人机对弈问题-树.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/数据结构与算法基础.md",
+                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/T1-1-2人机对弈问题-树.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/数据结构与算法基础.md"
+                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/T1-1-2人机对弈问题-树.excalidraw.md"
               }
             }
           },
@@ -178,11 +176,11 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "8f3eec2c4d793164",
+  "active": "938c8988613b8fdf",
   "lastOpenFiles": [
-    "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/T1-1-2人机对弈问题-树.excalidraw.md",
-    "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/数据结构与算法基础.md",
     "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/T1-1-1学生管理系统-线性表.excalidraw.md",
+    "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/数据结构与算法基础.md",
+    "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/T1-1-2人机对弈问题-树.excalidraw.md",
     "Excalidraw/Drawing 2023-10-14 01.48.52.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Mindmap connector.md",
     "Home.md",
