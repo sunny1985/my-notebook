@@ -11,11 +11,9 @@
             "id": "d1d4de453f408d46",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/数据结构与算法基础.md",
-                "mode": "source",
-                "source": false
+                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/数据结构与算法基础 2023-10-17 23.27.02.excalidraw.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/数据结构与算法基础.md",
+                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/数据结构与算法基础 2023-10-17 23.27.02.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/数据结构与算法基础.md",
+                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/数据结构与算法基础 2023-10-17 23.27.02.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/数据结构与算法基础.md"
+                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/数据结构与算法基础 2023-10-17 23.27.02.excalidraw.md"
               }
             }
           },
@@ -180,9 +178,10 @@
   },
   "active": "d1d4de453f408d46",
   "lastOpenFiles": [
+    "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/数据结构与算法基础.md",
+    "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/数据结构与算法基础 2023-10-17 23.27.02.excalidraw.md",
     "Home.md",
     "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/C1/T1-1-2--3-四种基本存储结构-顺序存储结构.excalidraw 1.md",
-    "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/数据结构与算法基础.md",
     "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/C1/T1-1-3地铁导航求最短路径.md",
     "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/C1/T1-1-2--3-四种基本存储结构-顺序存储结构.excalidraw.md",
     "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/C1/T1-1-2-2-四类基本逻辑结构.excalidraw.md",
@@ -223,7 +222,6 @@
     "conflict-files-obsidian-git.md",
     "Notebook/程序人生/Java/开源框架/Guava",
     "Notebook/程序人生/Java/开源框架",
-    "Notebook/读书笔记/其他/如何阅读一本书/如何阅读一本书.md",
     "Notebook/Java/开源框架/Guava/未命名.canvas"
   ]
 }
