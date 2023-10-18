@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5317d0d9e932facb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/C1/T1-1-2--3-四种基本存储结构-顺序存储结构-散列.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/C1/T1-1-2--3-四种基本存储结构-顺序存储结构-散列.excalidraw.md",
+                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/数据结构与算法基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/C1/T1-1-2--3-四种基本存储结构-顺序存储结构-散列.excalidraw.md",
+                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/数据结构与算法基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/C1/T1-1-2--3-四种基本存储结构-顺序存储结构-散列.excalidraw.md"
+                "file": "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/数据结构与算法基础.md"
               }
             }
           },
@@ -189,10 +178,10 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "5317d0d9e932facb",
+  "active": "d1d4de453f408d46",
   "lastOpenFiles": [
-    "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/数据结构与算法基础.md",
     "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/C1/T1-1-2--3-四种基本存储结构-顺序存储结构-散列.excalidraw.md",
+    "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/数据结构与算法基础.md",
     "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/C1/T1-1-2--3-四种基本存储结构-顺序存储结构2.excalidraw.md",
     "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/C1/T1-1-2--3-四种基本存储结构-顺序存储结构3.excalidraw.md",
     "Notebook/读书笔记/计算机/数据结构与算法基础（B站-青岛大学-王卓）/attachment/C1/T1-1-2--3-四种基本存储结构-顺序存储结构1.excalidraw.md",
