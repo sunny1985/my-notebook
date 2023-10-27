@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 362.5
+    "width": 362.5,
+    "collapsed": true
   },
   "right": {
     "id": "4fe85455b5b22348",
@@ -179,7 +180,7 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false
     }
   },
-  "active": "8f3eec2c4d793164",
+  "active": "af3a9ffaadf564d7",
   "lastOpenFiles": [
     "Home.md",
     "Notebook/程序人生/Java/开源框架/Guava/Getting Started with Google Guava.md",
